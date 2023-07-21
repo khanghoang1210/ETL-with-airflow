@@ -1,3 +1,3 @@
 # Airflow tutorial
 
-Compile practical exercises and tasks for self-learning Airflow.
+Practical exercises and tasks for self-learning Airflow on Docker.
